@@ -3,7 +3,7 @@
 <img src="github-metrics.svg" style="width:100%;" alt="Metrics">
 
 <p align="center">
-  <a href="https://raw.githubusercontent.com/marcreichel/marcreichel/main/github-achievements.svg"><strong>🏆 Full list of achievements</strong></a>
+  <strong>🏆 Full list of achievements</strong></a>
 </p>
 
 <br>
