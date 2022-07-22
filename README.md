@@ -1,6 +1,5 @@
 <img src="https://raw.githubusercontent.com/marcreichel/marcreichel/output/github-contribution-grid-snake.svg" style="width:100%;" alt="Snake">
 
-<img src="github-metrics.svg" style="width:100%;" alt="Metrics">
 
 <p align="center">
   <strong>🏆 Full list of achievements</strong></a>
