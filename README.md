@@ -125,26 +125,3 @@
 
 <br />
 
-<h3 align="center">
-  STATISTICS
-</h3>
-
-<p align="center">
-  <img alt="Marc Reichel's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=marcreichel&count_private=true&show_icons=true&include_all_commits=true&theme=onedark&cache_seconds=1800" style="max-width:100%;">
-</p>
-
-[website]: https://marcreichel.dev
-[linkedin]: https://www.linkedin.com/in/marc-reichel/
-
-<!--    
-         @marcreichel's 2021 GitHub Skyline          
-
-✧                     ✦                 ✦         ▁  
-    ✦           ▅        ✦ ✦         ✦      █▁✦  ▁█▁ 
- ☽ ▁        ▂   █▂     ▁                    ██   ███ 
-   █▅✧      █▃▂ ██  ▇ ▁█           ✧       ▃██ ▄▇███ 
-   ██▁▁ ▃█▃▆███▅██▅▃█▇██▅▄█ ▁█▅▃█▃▁▁▃▃ ▆▃▅▆███▇█████▆
-▁▆▇███████████████████████████████████▇██████████████
-
-     https://skyline.github.com/marcreichel/2021     
--->
