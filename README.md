@@ -1,4 +1,4 @@
-# Halo, Saya [Nama Anda] 👋
+# Halo, Saya Andrian Saputra 👋
 
 ![GitHub followers](https://img.shields.io/github/followers/andrlan?label=Follow&style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/beeetmut?style=social)
